@@ -44,6 +44,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
-🧑‍💻
+The best way to predict the future is to create it.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
