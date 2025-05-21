@@ -40,6 +40,6 @@ cd client && yarn start
 MIT - [103cuong](https://github.com/103cuong/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🦄
+Stay curious. Keep learning. Keep growing.
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
