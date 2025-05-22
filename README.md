@@ -40,6 +40,6 @@ cd client && yarn start
 MIT - [103cuong](https://github.com/103cuong/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🦄
+Stay curious. Keep learning. Keep growing.
+🐶
 <!-- INSPIRATIONAL_QUOTE_END -->
