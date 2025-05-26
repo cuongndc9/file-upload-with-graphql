@@ -45,5 +45,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Stay curious. Keep learning. Keep growing.
-👻
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
