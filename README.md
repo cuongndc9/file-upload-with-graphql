@@ -40,6 +40,6 @@ cd client && yarn start
 MIT - [103cuong](https://github.com/103cuong/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
+Discomfort is the currency of your dreams.
 👀,
 <!-- INSPIRATIONAL_QUOTE_END -->
