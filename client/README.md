@@ -44,6 +44,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🐶
+Be a lifelong learner, not a know-it-all.
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->
