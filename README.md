@@ -40,5 +40,5 @@ cd client && yarn start
 MIT - [103cuong](https://github.com/103cuong/)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->

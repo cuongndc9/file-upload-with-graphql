@@ -44,5 +44,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "The only impossible journey is the one you never begin." - Tony Robbins
 <!-- INSPIRATIONAL_QUOTE_END -->
